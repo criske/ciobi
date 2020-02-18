@@ -23,8 +23,7 @@ import kotlinx.coroutines.flow.scan
  */
 @FlowPreview
 @ExperimentalCoroutinesApi
-class CiobiReportUIReceiver(private val context: Context):
-    CiobiTaskManager, LifecycleObserver {
+class CiobiReportUIReceiver(private val context: Context): CiobiTaskManager {
 
     override fun observeReports(): Flow<List<CiobiReport>> = broadcastFlow()
         .scan(emptyList()) { acc, curr ->
