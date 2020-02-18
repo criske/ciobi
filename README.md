@@ -14,7 +14,7 @@ Tracks:
 * Airplane mode (*to be implemented*)
 
 ## Screenshots
-![](screenshots/ui.png){ width=50% height=50% } ![](screenshots/ui_overlay.png){ width=50% height=50% }
+![](screenshots/ui.png) ![](screenshots/ui_overlay.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
