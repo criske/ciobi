@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Phone Assist</string>
+    <string name="screen_brightness_name">Screen Brightness</string>
+    <string name="screen_brightness_value">Current brightness is %1$d. Required %2$d </string>
+    <string name="wifi_value">Your local wi-fi internet is off</string>
+
+    <string name="ring_name">Ring Tone Volume</string>
+    <string name="ring_value_low">Current ring tone volume too low. </string>
+    <string name="ring_value_silent">Your phone is on silent</string>
+    <string name="ring_value_vibrate">Your phone is on vibrate</string>
+
+    <string name="feature_not_available_error">Feature not available on this phone</string>
+
+    <string name="redirect_error_unsupported">Your device doesn\'t support enabling this feature by third party apps. Please enable it manually!</string>
+    <string name="redirect_error_enable_feature">You need to grant a system permission to enable this feature first.</string>
+    <string name="redirect_error_permission_denied">Permission denied.</string>
+    <string name="permissions_rejected">App will not work without accepting permissions</string>
+
+    <string name="dnd_name">Do not Disturb</string>
+    <string name="dnd_value">Do not Disturb Mode is on</string>
+
+    <string name="notification_title" translatable="false">@string/app_name</string>
+    <string name="notification_message">Phone assist</string>
+    <string name="lorem_ipsum" translatable="false">
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim enim sit amet venenatis urna. Laoreet non curabitur gravida arcu ac tortor dignissim convallis. Mauris vitae ultricies leo integer malesuada nunc vel risus. Sit amet porttitor eget dolor morbi non arcu risus. Mauris augue neque gravida in fermentum et sollicitudin. Tempus urna et pharetra pharetra massa massa ultricies mi. Sed blandit libero volutpat sed. Fringilla urna porttitor rhoncus dolor purus non. Posuere morbi leo urna molestie at elementum eu facilisis sed. Nibh venenatis cras sed felis. Sit amet venenatis urna cursus eget nunc scelerisque viverra mauris. Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Ultrices in iaculis nunc sed. Rhoncus mattis rhoncus urna neque viverra justo nec. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Ac ut consequat semper viverra nam libero justo. Vivamus at augue eget arcu dictum varius duis at consectetur. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Vitae purus faucibus ornare suspendisse sed nisi lacus sed.
+    </string>
+
+    <string name="fix">Fix</string>
+    <string name="ignore">Ignore</string>
+    <string name="download_clutter_name">Download Clutter</string>
+    <string name="download_folder_not_found_error">Download folder not found</string>
+    <string name="download_clutter_value">There was downloaded files with total size of %1$s. Proceed to delete?</string>
+    <string name="mobile_data_name">Mobile Data</string>
+
+    <string name="mobile_data_value">Mobile data is disabled</string>
+    <string name="bluetooth_value">Bluetooth is enabled</string>
+</resources>

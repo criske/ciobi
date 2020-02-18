@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dnd_name">Nu Deranja</string>
+    <string name="dnd_value">Modul \"Nu Deranja\" este activat</string>
+    <string name="fix">Repara</string>
+    <string name="ignore">Ignora</string>
+    <string name="notification_message">Telefon</string>
+    <string name="permissions_rejected">Aplicatia nu va functiona normal fara a accepta permisiunile explicite</string>
+    <string name="redirect_error_permission_denied">Permsiune respinsa</string>
+    <string name="redirect_error_unsupported">Pentru ca aceasta caracteristica sa fie controlata implicit de catre alte aplicatii trebuie activata manual o permisiune</string>
+    <string name="ring_name">Volum Sonerie</string>
+    <string name="ring_value_low">Volumul soneriei este prea scazut.</string>
+    <string name="ring_value_silent">Telefonul este in modul silentios</string>
+    <string name="ring_value_vibrate">Telefonul este pe vibratii</string>
+    <string name="screen_brightness_name">Luminozitate Ecran</string>
+    <string name="screen_brightness_value">"Luminozitatea cu valoarea %1$d e prea ridicata. Necesar e %2$d "</string>
+    <string name="wifi_value">Internetul de retea WiFi este dezactivat</string>
+    <string name="feature_not_available_error">Telefonul nu are aceasta caracteristica</string>
+    <string name="redirect_error_enable_feature">Trebuie acceptata o permisiune pentru ca aplicatia sa controleze aceasta caracteristica.</string>
+    <string name="download_clutter_value">Au fost descarcate fisire in marime totalal de %1$s. Stergeti?</string>
+    <string name="download_folder_not_found_error">Directorul de descarcari nu a putut fi gasit</string>
+    <string name="download_clutter_name">Fisiere de sters in directorul descarcari</string>
+    <string name="app_name">Asistent Telefon</string>
+    <string name="mobile_data_name">Date Mobile</string>
+    <string name="mobile_data_value">Datele modible sunt dezactivate</string>
+    <string name="bluetooth_value">Bluetooth-ul e activat</string>
+</resources>
