@@ -40,6 +40,7 @@
             android:maxHeight="300dp"
             android:scrollbars="vertical"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="14sp"
             app:layout_constraintBottom_toTopOf="@+id/btnClose"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
